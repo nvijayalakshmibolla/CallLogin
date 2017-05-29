@@ -27,8 +27,11 @@ public class ImgUpload extends HttpServlet {
 	org.krrvalidation krrvalidation=new org.krrvalidation();
 	org.Initclass Initclass=new org.Initclass();
 	org.Global_Data Global_Data=new org.Global_Data();
-
+//ngnsdngsd
+	//nsdfnnsdfn s
+	//sngfns
 	public ImgUpload() {
+		
 		super();
 	}
 
