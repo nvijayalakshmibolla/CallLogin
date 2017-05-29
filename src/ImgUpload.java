@@ -34,7 +34,8 @@ public class ImgUpload extends HttpServlet {
 		
 		super();
 	}
-
+//sdnfjbsdbfs
+	//sdjfjdbsbfdsj
 	public void destroy() {
 		super.destroy(); // Just puts "destroy" string in log
 	}
