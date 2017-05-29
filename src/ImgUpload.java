@@ -355,3 +355,6 @@ public class ImgUpload extends HttpServlet {
 		return File_name;
 	}
 }
+
+//gfjghjghjkghkghkghkg
+//asdfghjkl;
