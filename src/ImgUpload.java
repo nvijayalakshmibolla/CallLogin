@@ -21,6 +21,9 @@ import org.apache.commons.fileupload.FileUpload;
 
 public class ImgUpload extends HttpServlet {
 
+	//abhfbabsf
+	//dsjbgkjdbsjkbgskjdbgkjs
+	//dskgnjdsngns
 	org.krrvalidation krrvalidation=new org.krrvalidation();
 	org.Initclass Initclass=new org.Initclass();
 	org.Global_Data Global_Data=new org.Global_Data();
